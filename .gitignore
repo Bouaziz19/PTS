@@ -1,0 +1,14 @@
+*~
+*.egg-info
+*.EGG-INFO
+*.log
+*.pot
+*.pyc
+*.pyo
+*.css
+*.svg
+*.js
+build/
+dist/
+helloworld.db
+local_settings.py
